@@ -3,6 +3,7 @@
     "name": "LevelUp",
     "slug": "LevelUp",
     "version": "1.0.0",
+    "scheme": "levelup",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
